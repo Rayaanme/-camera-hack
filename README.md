@@ -1,4 +1,4 @@
-# -camera-hack
+# camera-hack
 HACK CCTV CAMERA ANYWHERE IN THE WOLD USING THIS
 THIS TOOLA IT IS AMAZING BRO
 
@@ -19,7 +19,7 @@ $ pkg install python
 $ pkg inatall python2
 
 $ pkg install figlet
-$ git clone https://github.com/Rayaanme/-camera-hack.git 
+$ git clone https://github.com/Rayaanme/camera-hack.git 
 
 $ cd -camera-hack
 $ ls
