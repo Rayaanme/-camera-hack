@@ -21,7 +21,7 @@ $ pkg inatall python2
 $ pkg install figlet
 $ git clone https://github.com/Rayaanme/camera-hack.git 
 
-$ cd -camera-hack
+$ cd camera-hack
 $ ls
 $ python cam-hack
 HOW TO USE
